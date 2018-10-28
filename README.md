@@ -1,5 +1,3 @@
-# pagesetup
-
 # Login App
 Node.js Login App with user login and register functionality.
 
